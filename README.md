@@ -13,7 +13,7 @@ ServerlessGoat was created for the following educational purposes:
 
 You can find more information about WebGoat at: [https://www.owasp.org/index.php/OWASP_Serverless_Goat](https://www.owasp.org/index.php/OWASP_Serverless_Goat)
 
-**​WARNING 1**: This application contains vulnerabilities. Use it only for training purposes.  
+**WARNING 1**: This application contains vulnerabilities. Use it only for training purposes.  
 **WARNING 2**: This program is for educational purposes only. Do not attempt these techniques without authorization from application owners.  ​
 
 **NOTE**: The application was developed in such way that should not put your AWS account at risk. The vulnerabilities that were introduced are contained within the boundaries of this specific application. Nevertheless, users are not encouraged to deploy the application in production environments.
